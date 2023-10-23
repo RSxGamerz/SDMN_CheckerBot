@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = "";
+$config['botToken'] = "6740103281:AAFFWRQ-B9-ZwrMfIuDhHS52AQaHXZMMv50";
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +20,7 @@ $config['botToken'] = "";
 | ID can be obtained from https://telegram.dog/username_to_id_bot
 |
 */
-$config['adminID'] = "";
+$config['adminID'] = "1458280245, 5994836927";
 
 /*
 |--------------------------------------------------------------------------
@@ -31,7 +31,7 @@ $config['adminID'] = "";
 | ID can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['logsID'] =  "";
+$config['logsID'] =  "1001952154181";
 
 /*
 |--------------------------------------------------------------------------
@@ -52,10 +52,10 @@ $config['timeZone'] =  "Asia/Kolkata";
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  "localhost";
-$config['db']['username'] =  "root";
-$config['db']['password'] =  "";
-$config['db']['database'] =  "checkerbot";
+$config['db']['hostname'] =  "sql12.freesqldatabase.com";
+$config['db']['username'] =  "sql12655927";
+$config['db']['password'] =  "FIMBARXVDS";
+$config['db']['database'] =  "sql12655927";
 
 /*
 |--------------------------------------------------------------------------
@@ -78,5 +78,5 @@ $config['anti_spam_timer'] =  "20";
 | array('sk1','sk2','sk3')
 |
 */
-$config['sk_keys'] =  array('sk_live_69GKI0saLB8uIEnxzv8VTvRX');
+$config['sk_keys'] =  array('pk_live_51MIq0ESJz94wSBBrvVldU1L2s31BJHd5cJfDf1zcLyuycg30TpkijZjvwq1TgZ4u7q2aL2ffJXeT9o1EDiAIKe3P00VieRuqPb');
 ?>
